@@ -1,12 +1,296 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\js_chemicals\\Web_Applications\\JSorders\\BackEnd\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6889BEF-D156-47A4-8BD0-E3250D5B85DE}|JSCdata\\JSCdata.csproj|d:\\js_chemicals\\web_applications\\jsorders\\backend\\jscdata\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6889BEF-D156-47A4-8BD0-E3250D5B85DE}|JSCdata\\JSCdata.csproj|solutionrelative:jscdata\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01D3E0F-066B-438B-9A01-15A7BFD244E0}|BackEnd\\BackEnd.csproj|d:\\js_chemicals\\web_applications\\jsorders\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01D3E0F-066B-438B-9A01-15A7BFD244E0}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01D3E0F-066B-438B-9A01-15A7BFD244E0}|BackEnd\\BackEnd.csproj|d:\\js_chemicals\\web_applications\\jsorders\\backend\\backend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01D3E0F-066B-438B-9A01-15A7BFD244E0}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6889BEF-D156-47A4-8BD0-E3250D5B85DE}|JSCdata\\JSCdata.csproj|d:\\js_chemicals\\web_applications\\jsorders\\backend\\jscdata\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6889BEF-D156-47A4-8BD0-E3250D5B85DE}|JSCdata\\JSCdata.csproj|solutionrelative:jscdata\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702F54DB-C54F-41CD-8D50-9F052806089C}|Services\\Services.csproj|d:\\js_chemicals\\web_applications\\jsorders\\backend\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{702F54DB-C54F-41CD-8D50-9F052806089C}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6889BEF-D156-47A4-8BD0-E3250D5B85DE}|JSCdata\\JSCdata.csproj|d:\\js_chemicals\\web_applications\\jsorders\\backend\\jscdata\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6889BEF-D156-47A4-8BD0-E3250D5B85DE}|JSCdata\\JSCdata.csproj|solutionrelative:jscdata\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6889BEF-D156-47A4-8BD0-E3250D5B85DE}|JSCdata\\JSCdata.csproj|d:\\js_chemicals\\web_applications\\jsorders\\backend\\jscdata\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6889BEF-D156-47A4-8BD0-E3250D5B85DE}|JSCdata\\JSCdata.csproj|solutionrelative:jscdata\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6889BEF-D156-47A4-8BD0-E3250D5B85DE}|JSCdata\\JSCdata.csproj|d:\\js_chemicals\\web_applications\\jsorders\\backend\\jscdata\\jscdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6889BEF-D156-47A4-8BD0-E3250D5B85DE}|JSCdata\\JSCdata.csproj|solutionrelative:jscdata\\jscdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01D3E0F-066B-438B-9A01-15A7BFD244E0}|BackEnd\\BackEnd.csproj|d:\\js_chemicals\\web_applications\\jsorders\\backend\\backend\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01D3E0F-066B-438B-9A01-15A7BFD244E0}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702F54DB-C54F-41CD-8D50-9F052806089C}|Services\\Services.csproj|d:\\js_chemicals\\web_applications\\jsorders\\backend\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702F54DB-C54F-41CD-8D50-9F052806089C}|Services\\Services.csproj|solutionrelative:services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702F54DB-C54F-41CD-8D50-9F052806089C}|Services\\Services.csproj|d:\\js_chemicals\\web_applications\\jsorders\\backend\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702F54DB-C54F-41CD-8D50-9F052806089C}|Services\\Services.csproj|solutionrelative:services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702F54DB-C54F-41CD-8D50-9F052806089C}|Services\\Services.csproj|d:\\js_chemicals\\web_applications\\jsorders\\backend\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702F54DB-C54F-41CD-8D50-9F052806089C}|Services\\Services.csproj|solutionrelative:services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702F54DB-C54F-41CD-8D50-9F052806089C}|Services\\Services.csproj|d:\\js_chemicals\\web_applications\\jsorders\\backend\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702F54DB-C54F-41CD-8D50-9F052806089C}|Services\\Services.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702F54DB-C54F-41CD-8D50-9F052806089C}|Services\\Services.csproj|d:\\js_chemicals\\web_applications\\jsorders\\backend\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702F54DB-C54F-41CD-8D50-9F052806089C}|Services\\Services.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01D3E0F-066B-438B-9A01-15A7BFD244E0}|BackEnd\\BackEnd.csproj|d:\\js_chemicals\\web_applications\\jsorders\\backend\\backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C01D3E0F-066B-438B-9A01-15A7BFD244E0}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01D3E0F-066B-438B-9A01-15A7BFD244E0}|BackEnd\\BackEnd.csproj|d:\\js_chemicals\\web_applications\\jsorders\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C01D3E0F-066B-438B-9A01-15A7BFD244E0}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6889BEF-D156-47A4-8BD0-E3250D5B85DE}|JSCdata\\JSCdata.csproj|d:\\js_chemicals\\web_applications\\jsorders\\backend\\jscdata\\migrations\\20240906140529_createjscdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6889BEF-D156-47A4-8BD0-E3250D5B85DE}|JSCdata\\JSCdata.csproj|solutionrelative:jscdata\\migrations\\20240906140529_createjscdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\js_chemicals\\Web_Applications\\JSorders\\BackEnd\\BackEnd\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\js_chemicals\\Web_Applications\\JSorders\\BackEnd\\BackEnd\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "BackEnd\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T07:24:54.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\js_chemicals\\Web_Applications\\JSorders\\BackEnd\\BackEnd\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\js_chemicals\\Web_Applications\\JSorders\\BackEnd\\BackEnd\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "BackEnd\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwB4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T07:15:15.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\js_chemicals\\Web_Applications\\JSorders\\BackEnd\\JSCdata\\Product.cs",
+              "RelativeDocumentMoniker": "JSCdata\\Product.cs",
+              "ToolTip": "D:\\js_chemicals\\Web_Applications\\JSorders\\BackEnd\\JSCdata\\Product.cs",
+              "RelativeToolTip": "JSCdata\\Product.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:38:40.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\js_chemicals\\Web_Applications\\JSorders\\BackEnd\\JSCdata\\Order.cs",
+              "RelativeDocumentMoniker": "JSCdata\\Order.cs",
+              "ToolTip": "D:\\js_chemicals\\Web_Applications\\JSorders\\BackEnd\\JSCdata\\Order.cs",
+              "RelativeToolTip": "JSCdata\\Order.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:38:39.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\js_chemicals\\Web_Applications\\JSorders\\BackEnd\\JSCdata\\Customer.cs",
+              "RelativeDocumentMoniker": "JSCdata\\Customer.cs",
+              "ToolTip": "D:\\js_chemicals\\Web_Applications\\JSorders\\BackEnd\\JSCdata\\Customer.cs",
+              "RelativeToolTip": "JSCdata\\Customer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:38:37.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JSCDBContext.cs",
+              "DocumentMoniker": "D:\\js_chemicals\\Web_Applications\\JSorders\\BackEnd\\JSCdata\\JSCDBContext.cs",
+              "RelativeDocumentMoniker": "JSCdata\\JSCDBContext.cs",
+              "ToolTip": "D:\\js_chemicals\\Web_Applications\\JSorders\\BackEnd\\JSCdata\\JSCDBContext.cs",
+              "RelativeToolTip": "JSCdata\\JSCDBContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwBgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T10:47:13.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Services.csproj",
+              "DocumentMoniker": "D:\\js_chemicals\\Web_Applications\\JSorders\\BackEnd\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "Services\\Services.csproj",
+              "ToolTip": "D:\\js_chemicals\\Web_Applications\\JSorders\\BackEnd\\Services\\Services.csproj",
+              "RelativeToolTip": "Services\\Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-06T14:12:48.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sales.cs",
+              "DocumentMoniker": "D:\\js_chemicals\\Web_Applications\\JSorders\\BackEnd\\JSCdata\\Sales.cs",
+              "RelativeDocumentMoniker": "JSCdata\\Sales.cs",
+              "ToolTip": "D:\\js_chemicals\\Web_Applications\\JSorders\\BackEnd\\JSCdata\\Sales.cs",
+              "RelativeToolTip": "JSCdata\\Sales.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:38:42.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\js_chemicals\\Web_Applications\\JSorders\\BackEnd\\BackEnd\\Program.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Program.cs",
+              "ToolTip": "D:\\js_chemicals\\Web_Applications\\JSorders\\BackEnd\\BackEnd\\Program.cs",
+              "RelativeToolTip": "BackEnd\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T10:02:18.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\js_chemicals\\Web_Applications\\JSorders\\BackEnd\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Services\\IOrderService.cs",
+              "ToolTip": "D:\\js_chemicals\\Web_Applications\\JSorders\\BackEnd\\Services\\IOrderService.cs",
+              "RelativeToolTip": "Services\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T07:49:00.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\js_chemicals\\Web_Applications\\JSorders\\BackEnd\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "D:\\js_chemicals\\Web_Applications\\JSorders\\BackEnd\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAzwBIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:13:24.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\js_chemicals\\Web_Applications\\JSorders\\BackEnd\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService.cs",
+              "ToolTip": "D:\\js_chemicals\\Web_Applications\\JSorders\\BackEnd\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Services\\CustomerService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T07:38:54.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "D:\\js_chemicals\\Web_Applications\\JSorders\\BackEnd\\Services\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\ICustomerService.cs",
+              "ToolTip": "D:\\js_chemicals\\Web_Applications\\JSorders\\BackEnd\\Services\\ICustomerService.cs",
+              "RelativeToolTip": "Services\\ICustomerService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T07:31:54.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\js_chemicals\\Web_Applications\\JSorders\\BackEnd\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\IProductService.cs",
+              "ToolTip": "D:\\js_chemicals\\Web_Applications\\JSorders\\BackEnd\\Services\\IProductService.cs",
+              "RelativeToolTip": "Services\\IProductService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T07:27:59.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240906140529_CreateJSCdb.cs",
+              "DocumentMoniker": "D:\\js_chemicals\\Web_Applications\\JSorders\\BackEnd\\JSCdata\\Migrations\\20240906140529_CreateJSCdb.cs",
+              "RelativeDocumentMoniker": "JSCdata\\Migrations\\20240906140529_CreateJSCdb.cs",
+              "ToolTip": "D:\\js_chemicals\\Web_Applications\\JSorders\\BackEnd\\JSCdata\\Migrations\\20240906140529_CreateJSCdb.cs",
+              "RelativeToolTip": "JSCdata\\Migrations\\20240906140529_CreateJSCdb.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAQwAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:05:30.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\js_chemicals\\Web_Applications\\JSorders\\BackEnd\\BackEnd\\appsettings.json",
+              "RelativeDocumentMoniker": "BackEnd\\appsettings.json",
+              "ToolTip": "D:\\js_chemicals\\Web_Applications\\JSorders\\BackEnd\\BackEnd\\appsettings.json",
+              "RelativeToolTip": "BackEnd\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-06T11:55:57.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BackEnd.csproj",
+              "DocumentMoniker": "D:\\js_chemicals\\Web_Applications\\JSorders\\BackEnd\\BackEnd\\BackEnd.csproj",
+              "RelativeDocumentMoniker": "BackEnd\\BackEnd.csproj",
+              "ToolTip": "D:\\js_chemicals\\Web_Applications\\JSorders\\BackEnd\\BackEnd\\BackEnd.csproj",
+              "RelativeToolTip": "BackEnd\\BackEnd.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-06T11:48:06.323Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

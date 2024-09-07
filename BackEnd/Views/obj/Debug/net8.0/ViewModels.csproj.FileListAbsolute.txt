@@ -1,0 +1,13 @@
+D:\js_chemicals\Web_Applications\JSorders\BackEnd\Views\bin\Debug\net8.0\ViewModels.deps.json
+D:\js_chemicals\Web_Applications\JSorders\BackEnd\Views\bin\Debug\net8.0\ViewModels.dll
+D:\js_chemicals\Web_Applications\JSorders\BackEnd\Views\bin\Debug\net8.0\ViewModels.pdb
+D:\js_chemicals\Web_Applications\JSorders\BackEnd\Views\obj\Debug\net8.0\ViewModels.csproj.AssemblyReference.cache
+D:\js_chemicals\Web_Applications\JSorders\BackEnd\Views\obj\Debug\net8.0\ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\js_chemicals\Web_Applications\JSorders\BackEnd\Views\obj\Debug\net8.0\ViewModels.AssemblyInfoInputs.cache
+D:\js_chemicals\Web_Applications\JSorders\BackEnd\Views\obj\Debug\net8.0\ViewModels.AssemblyInfo.cs
+D:\js_chemicals\Web_Applications\JSorders\BackEnd\Views\obj\Debug\net8.0\ViewModels.csproj.CoreCompileInputs.cache
+D:\js_chemicals\Web_Applications\JSorders\BackEnd\Views\obj\Debug\net8.0\ViewModels.sourcelink.json
+D:\js_chemicals\Web_Applications\JSorders\BackEnd\Views\obj\Debug\net8.0\ViewModels.dll
+D:\js_chemicals\Web_Applications\JSorders\BackEnd\Views\obj\Debug\net8.0\refint\ViewModels.dll
+D:\js_chemicals\Web_Applications\JSorders\BackEnd\Views\obj\Debug\net8.0\ViewModels.pdb
+D:\js_chemicals\Web_Applications\JSorders\BackEnd\Views\obj\Debug\net8.0\ref\ViewModels.dll

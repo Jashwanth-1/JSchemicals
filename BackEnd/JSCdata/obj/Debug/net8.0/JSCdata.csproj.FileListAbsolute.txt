@@ -1,0 +1,15 @@
+D:\js_chemicals\Web_Applications\JSorders\BackEnd\JSCdata\bin\Debug\net8.0\JSCdata.deps.json
+D:\js_chemicals\Web_Applications\JSorders\BackEnd\JSCdata\bin\Debug\net8.0\JSCdata.runtimeconfig.json
+D:\js_chemicals\Web_Applications\JSorders\BackEnd\JSCdata\bin\Debug\net8.0\JSCdata.dll
+D:\js_chemicals\Web_Applications\JSorders\BackEnd\JSCdata\bin\Debug\net8.0\JSCdata.pdb
+D:\js_chemicals\Web_Applications\JSorders\BackEnd\JSCdata\obj\Debug\net8.0\JSCdata.csproj.AssemblyReference.cache
+D:\js_chemicals\Web_Applications\JSorders\BackEnd\JSCdata\obj\Debug\net8.0\JSCdata.GeneratedMSBuildEditorConfig.editorconfig
+D:\js_chemicals\Web_Applications\JSorders\BackEnd\JSCdata\obj\Debug\net8.0\JSCdata.AssemblyInfoInputs.cache
+D:\js_chemicals\Web_Applications\JSorders\BackEnd\JSCdata\obj\Debug\net8.0\JSCdata.AssemblyInfo.cs
+D:\js_chemicals\Web_Applications\JSorders\BackEnd\JSCdata\obj\Debug\net8.0\JSCdata.csproj.CoreCompileInputs.cache
+D:\js_chemicals\Web_Applications\JSorders\BackEnd\JSCdata\obj\Debug\net8.0\JSCdata.sourcelink.json
+D:\js_chemicals\Web_Applications\JSorders\BackEnd\JSCdata\obj\Debug\net8.0\JSCdata.dll
+D:\js_chemicals\Web_Applications\JSorders\BackEnd\JSCdata\obj\Debug\net8.0\refint\JSCdata.dll
+D:\js_chemicals\Web_Applications\JSorders\BackEnd\JSCdata\obj\Debug\net8.0\JSCdata.pdb
+D:\js_chemicals\Web_Applications\JSorders\BackEnd\JSCdata\obj\Debug\net8.0\JSCdata.genruntimeconfig.cache
+D:\js_chemicals\Web_Applications\JSorders\BackEnd\JSCdata\obj\Debug\net8.0\ref\JSCdata.dll
